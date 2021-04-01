@@ -6,7 +6,7 @@ The goal of this analysis is to conduct an analysis on the New York bike sharing
 
 ## Results
 
-![Checkout_Times_by_Gender.png](Images/Checkout Times by Gender.png)
+![Checkout_Times_by_Gender.png](Images/Checkout_Times_by_Gender.png)
 Riders whose genders are unknown rented their bikes for longer period of time on average.
 
 ![Checkout Times for Users.png](Images/Checkout Times for Users.png)
